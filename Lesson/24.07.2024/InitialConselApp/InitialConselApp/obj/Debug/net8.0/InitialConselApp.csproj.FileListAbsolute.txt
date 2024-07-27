@@ -1,0 +1,14 @@
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\obj\Debug\net8.0\InitialConselApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\obj\Debug\net8.0\InitialConselApp.AssemblyInfoInputs.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\obj\Debug\net8.0\InitialConselApp.AssemblyInfo.cs
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\obj\Debug\net8.0\InitialConselApp.csproj.CoreCompileInputs.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\bin\Debug\net8.0\InitialConselApp.exe
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\bin\Debug\net8.0\InitialConselApp.deps.json
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\bin\Debug\net8.0\InitialConselApp.runtimeconfig.json
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\bin\Debug\net8.0\InitialConselApp.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\bin\Debug\net8.0\InitialConselApp.pdb
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\obj\Debug\net8.0\InitialConselApp.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\obj\Debug\net8.0\refint\InitialConselApp.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\obj\Debug\net8.0\InitialConselApp.pdb
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\obj\Debug\net8.0\InitialConselApp.genruntimeconfig.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\InitialConselApp\obj\Debug\net8.0\ref\InitialConselApp.dll

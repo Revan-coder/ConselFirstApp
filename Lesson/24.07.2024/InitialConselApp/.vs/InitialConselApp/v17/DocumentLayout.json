@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\Lesson\\24.07.2024\\InitialConselApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7351681D-C42F-4702-9736-0EA9211D37E2}|InitialConselApp\\InitialConselApp.csproj|c:\\users\\revan\\onedrive\\resimler\\masa\u00FCst\u00FC\\c#\\lesson\\24.07.2024\\initialconselapp\\initialconselapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7351681D-C42F-4702-9736-0EA9211D37E2}|InitialConselApp\\InitialConselApp.csproj|solutionrelative:initialconselapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99373601-C2E0-4143-A396-249AC729DDBC}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\revan\\onedrive\\resimler\\masa\u00FCst\u00FC\\c#\\lesson\\24.07.2024\\initialconselapp\\secondconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99373601-C2E0-4143-A396-249AC729DDBC}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\Lesson\\24.07.2024\\InitialConselApp\\SecondConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\Lesson\\24.07.2024\\InitialConselApp\\SecondConsoleApp\\Program.cs",
+              "RelativeToolTip": "SecondConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:47:26.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\Lesson\\24.07.2024\\InitialConselApp\\InitialConselApp\\Program.cs",
+              "RelativeDocumentMoniker": "InitialConselApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Revan\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\c#\\Lesson\\24.07.2024\\InitialConselApp\\InitialConselApp\\Program.cs",
+              "RelativeToolTip": "InitialConselApp\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:47:03.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

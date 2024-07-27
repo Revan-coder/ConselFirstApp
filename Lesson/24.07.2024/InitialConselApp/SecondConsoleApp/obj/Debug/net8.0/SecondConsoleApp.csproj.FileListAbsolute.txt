@@ -1,0 +1,14 @@
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.exe
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.deps.json
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.runtimeconfig.json
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.pdb
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.AssemblyInfo.cs
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\obj\Debug\net8.0\refint\SecondConsoleApp.dll
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.pdb
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.genruntimeconfig.cache
+C:\Users\Revan\OneDrive\Resimler\Masaüstü\c#\Lesson\24.07.2024\InitialConselApp\SecondConsoleApp\obj\Debug\net8.0\ref\SecondConsoleApp.dll
